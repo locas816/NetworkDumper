@@ -38,7 +38,7 @@
   </property>
   <property name="windowIcon">
    <iconset>
-    <normaloff>../../../../PycharmProjects/FinalProject/resources/logo.png</normaloff>../../../../PycharmProjects/FinalProject/resources/logo.png</iconset>
+    <normaloff>../resources/logo.png</normaloff>../resources/logo.png</iconset>
   </property>
   <property name="styleSheet">
    <string notr="true">QComboBox:drop-down{
@@ -1112,7 +1112,7 @@ QPushButton:hover:checked{
      </property>
      <property name="icon">
       <iconset>
-       <normaloff>../../../../PycharmProjects/FinalProject/resources/logo.png</normaloff>../../../../PycharmProjects/FinalProject/resources/logo.png</iconset>
+       <normaloff>../resources/logo.png</normaloff>../resources/logo.png</iconset>
      </property>
      <property name="iconSize">
       <size>
@@ -1371,7 +1371,7 @@ QPushButton:hover:checked{
        </property>
        <property name="icon">
         <iconset>
-         <normaloff>../../../../PycharmProjects/FinalProject/resources/filter.svg</normaloff>../../../../PycharmProjects/FinalProject/resources/filter.svg</iconset>
+         <normaloff>../resources/filter.svg</normaloff>../resources/filter.svg</iconset>
        </property>
       </widget>
      </item>
@@ -1464,7 +1464,7 @@ QPushButton:hover:checked{
        </property>
        <property name="icon">
         <iconset>
-         <normaloff>../../../../PycharmProjects/FinalProject/resources/database.png</normaloff>../../../../PycharmProjects/FinalProject/resources/database.png</iconset>
+         <normaloff>../resources/database.png</normaloff>../resources/database.png</iconset>
        </property>
        <property name="iconSize">
         <size>
@@ -1502,7 +1502,7 @@ QPushButton:hover:checked{
        </property>
        <property name="icon">
         <iconset>
-         <normaloff>../../../../PycharmProjects/FinalProject/resources/startCapturing.svg</normaloff>../../../../PycharmProjects/FinalProject/resources/startCapturing.svg</iconset>
+         <normaloff>../resources/startCapturing.svg</normaloff>../resources/startCapturing.svg</iconset>
        </property>
        <property name="iconSize">
         <size>
@@ -1537,7 +1537,7 @@ QPushButton:hover:checked{
        </property>
        <property name="icon">
         <iconset>
-         <normaloff>../../../../PycharmProjects/FinalProject/resources/open.svg</normaloff>../../../../PycharmProjects/FinalProject/resources/open.svg</iconset>
+         <normaloff>../resources/open.svg</normaloff>../resources/open.svg</iconset>
        </property>
        <property name="iconSize">
         <size>
@@ -1565,7 +1565,7 @@ QPushButton:hover:checked{
   </layout>
  </widget>
  <resources>
-  <include location="../../../../PycharmProjects/FinalProject/resources/APPicons.qrc"/>
+  <include location="../resources/APPicons.qrc"/>
  </resources>
  <connections/>
 </ui>
